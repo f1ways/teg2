@@ -1,9 +1,10 @@
-body {
+body, html {
   font-family: Arial, sans-serif;
   background: #121212;
   color: #fff;
   text-align: center;
   padding-top: 100px;
+  margin: 0;
 }
 
 input[type="text"] {
